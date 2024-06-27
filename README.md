@@ -1,4 +1,4 @@
-# Multimodal Data Warehouse
+# Reference Multimodal Datalake
 
 How do you work with 1,000,000 images? Or videos? Or documents? Also, what about all the associated metadata like
 the date an image was taken? Or the height/width of each image? Or maybe annotations on the image?
